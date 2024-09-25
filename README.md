@@ -65,7 +65,7 @@ The models were evaluated based on precision, recall, and F1-score. The best-per
 - SVM with Gaussian kernel
 - KNN with optimized hyperparameters
 
-## Conclusion
+## Conclusions
 Despite the numerous models evaluated, it was not possible to identify a satisfactory one 
 
 ## Contributors
