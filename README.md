@@ -2,13 +2,13 @@
 # Face Detection System
 
 ## Table of contents
-- [Introduction](introduction)
-- [What is Face Detection?](whatisfacedetection?)
-- [Project Structure](projectstructure)
-- [Features](features)
-- [Conclusions](conclusions)
-- [Documentation](documentation)
-- [Contributors](contributors)
+- [Introduction](#introduction)
+- [What is Face Detection?](#whatisfacedetection?)
+- [Project Structure](#projectstructure)
+- [Features](#features)
+- [Conclusions](#conclusions)
+- [Documentation](#documentation)
+- [Contributors](#contributors)
 
 ## Introduction
 
