@@ -3,8 +3,8 @@
 
 ## Table of contents
 - [Introduction](#introduction)
-- [What is Face Detection?](#what is face detection?)
-- [Project Structure](#project structure)
+- [What is Face Detection?](#what)
+- [Project Structure](#organized)
 - [Features](#features)
 - [Conclusions](#conclusions)
 - [Documentation](#documentation)
