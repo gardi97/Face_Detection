@@ -3,8 +3,6 @@
 
 ## Table of contents
 - [Introduction](#introduction)
-- [What is Face Detection?](#whatisfacedetection?)
-- [Project Structure](#projectstructure)
 - [Features](#features)
 - [Conclusions](#conclusions)
 - [Documentation](#documentation)
@@ -14,13 +12,13 @@
 
 This project aims to develop a face detection system capable of identifying human faces in an image. As an educational project, the model is trained from scratch without relying on pre-trained models. The system is designed to operate under computational constraints, making efficient use of available resources.
 
-## What is Face Detection?
+#### What is Face Detection?
 
 Face Detection is a branch of Computer Vision (CV) focused on identifying human faces within images. Due to the growing availability of digital images, face detection plays a crucial role in various fields and applications. Historically, techniques such as the Viola-Jones algorithm have been used for this purpose. However, modern approaches often rely on deep learning, which, while effective, requires significant computational resources to train from scratch.
 
 Considering the constraints of this project—namely, the need to train a model from scratch and the absence of significant computational resources—we have opted to use a Support Vector Machine (SVM) in combination with feature extraction techniques for classification. This approach is paired with algorithms capable of locating faces regardless of position and size within the image.
 
-## Project Structure
+#### Project Structure
 
 The notebook is organized into the following sections:
 
