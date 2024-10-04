@@ -34,7 +34,7 @@ The notebook is organized into the following sections:
 - Test results on real-world photos.
   
 ## Conclusion
-The trained SVM classificator performed very well in face classication task, with an accurcy score of 0.99 on the test set. Thanks to the implemented sliding window and image pyramids and Non-maximum Suppression (NMS) algorithms, the model was able to identify most of the faces in test photos.
+The trained SVM classificator performed very well in face classication task, with an accurcy score of 0.99 on the test set. Thanks to the implemented sliding window, image pyramids and Non-maximum Suppression (NMS) algorithms, the model was able to identify most of the faces in test photos.
 The project also includes examples of the face detection algorithm applied to real-world photos, demonstrating the effectiveness of the SVM classifier and feature extraction methods.
 
 
